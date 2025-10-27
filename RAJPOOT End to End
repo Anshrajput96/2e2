@@ -58,4 +58,5 @@ print("✅ Message Sent Successfully in E2EE Chat!")
 
 # 7. Close Browser
 time.sleep(2)
+
 driver.quit()
